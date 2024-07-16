@@ -46,5 +46,5 @@ int main(void){
     printf ("Moedas de 1: %i\n\n", m1);
     printf("Sobrou: %i\n", trococentavos);
 
-    //I showed each amount of coins neeeded, for check50 put all amount of coins in one variable
+    //I showed each amount of coins needed, for check50 put all amount of coins in one variable
 }
